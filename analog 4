@@ -1,0 +1,2 @@
+1) You can only use certain pins because the values have limits  on frequency.
+2) map() has a range from 0 to 255.
